@@ -6,7 +6,7 @@
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">Frog activity</langstring>
+          <langstring xml:lang="x-none">Eat the Frog</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,11 +50,11 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="Frog_activity_ORG">
-    <organization identifier="Frog_activity_ORG">
-      <title>Frog activity</title>
+  <organizations default="Eat_the_Frog_ORG">
+    <organization identifier="Eat_the_Frog_ORG">
+      <title>Eat the Frog</title>
       <item identifier="Frog_activity_SCO" isvisible="true" identifierref="__5f3D3xlltH4_RES">
-        <title>Frog activity</title>
+        <title>Eat the Frog</title>
       </item>
     </organization>
   </organizations>
